@@ -9,3 +9,6 @@ The tasks performed on this dataset are:
 - Pattern mining
 
 Besides two notebook files with the code written for these purposes, a report of the whole project is provided.
+
+Some cells in the notebooks are commented, in order to avoid the related files to be too heavy. 
+
